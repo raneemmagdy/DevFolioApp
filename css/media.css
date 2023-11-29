@@ -1,0 +1,52 @@
+
+
+/* xs */
+@media all and (min-width:0px) and (max-width:600px){
+   
+.shape{
+    height: 100%;
+}
+.card .overlay {
+    top: 55%;
+}
+.contact{
+    height: 100%;
+}
+
+}
+
+/* sm */
+@media all and (min-width:601px) and (max-width:768px)
+{
+.shape{
+        height: 100%;
+}
+.card .overlay {
+    top: 60%;
+}
+.contact{
+    height: 100%;
+}
+
+}
+
+/* md */
+
+@media all and (min-width:769px) and (max-width:991px)
+{
+ 
+}
+
+/* lg */
+
+@media all and (min-width:992px) and (max-width:1200px)
+{
+   
+}
+
+
+/* xl */
+
+@media all and (min-width:1201px) {
+   
+}
